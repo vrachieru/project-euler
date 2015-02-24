@@ -1,4 +1,4 @@
-public class project_euler_92
+public class project_euler_092
 {
   public static int next(int nr) {
     int sum = 0;
