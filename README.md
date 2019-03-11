@@ -14,6 +14,6 @@ you to at least try to solve them before looking at the solutions.
 
 ## Status
 
-<a href="https://projecteuler.net/progress=silverdrop" target="_blank">
-  <img src="https://projecteuler.net/profile/silverdrop.png"/>
+<a href="https://projecteuler.net/progress=vrachieru" target="_blank">
+  <img src="https://projecteuler.net/profile/vrachieru.png"/>
 <a/>
